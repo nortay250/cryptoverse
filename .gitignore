@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/services/cryptoApi.js
+/src/services/cryptoNewsApi.js
+
 
 # testing
 /coverage
