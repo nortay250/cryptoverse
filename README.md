@@ -8,3 +8,6 @@ React JS\
 Redux Toolkit\
 Ant Design\
 RapidAPI
+
+## Visit site
+https://cryptoverse-eleanor.netlify.app/
